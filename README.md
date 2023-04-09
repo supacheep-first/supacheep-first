@@ -12,3 +12,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png" alt="https://www.java.com/en/" title="Java" width="40" height="40">
 </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supacheep-first&layout=compact&theme=onedark" alt="supacheep-first"></p>
+<h2 align="center">📫 Connect With Me</h2>
+<p align="center">
+  <a href="https://medium.com/@first.supacheep"><img src="https://seeklogo.com/images/M/medium-logo-1F23D46A41-seeklogo.com.png" alt="Medium" title="Medium" width="150" height="100%"></a>
+</p>
