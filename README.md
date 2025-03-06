@@ -33,6 +33,6 @@
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center">
   <a href="https://medium.com/@first.supacheep">
-    <img src="https://seeklogo.com/images/M/medium-logo-1F23D46A41-seeklogo.com.png" alt="Medium" title="Medium" width="150" height="100%">
+    <img src="[https://seeklogo.com/images/M/medium-logo-1F23D46A41-seeklogo.com.png](https://miro.medium.com/v2/resize:fit:1400/1*vgA8vmus2RKTx4rfHI8u3g.jpeg)" alt="Medium" title="Medium" width="150" height="100%">
   </a>
 </p>
